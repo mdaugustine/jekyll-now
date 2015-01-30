@@ -9,4 +9,4 @@ My second project was the Mars Rover problem. This problem models a rover which 
 
 Overall I found Ruby easy to use with decent capability. I would probably use this language when I'm wanting to solve a simple problem. I still however prefer C#'s structure, strong typing, and massive libraries over Ruby for large projects which would require many classes and dependencies.
 
-My solutions to the problems can be found in my repository at https://github.com/mdaugustine/SeniorDesign
+My solutions to the problems can be found in my repository <a href="https://github.com/mdaugustine/SeniorDesign">here</a>
