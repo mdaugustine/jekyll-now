@@ -23,9 +23,9 @@ All three of these engines are open source, so we would not have to worry about 
 Features
 
 *	Platforms
-**	JRE 1.3+
-**	J2ME mobile
-**	Android 2.1+
+	*	JRE 1.3+
+	*	J2ME mobile
+	*	Android 2.1+
 *	Flash Actionscript 3
 *	Sprites with automatic animation and collision detection
 *	Tile-based background
