@@ -21,6 +21,7 @@ All three of these engines are open source, so we would not have to worry about 
 ### JGame
 
 Features
+
 *	Platforms
 **	JRE 1.3+
 **	J2ME mobile
@@ -34,6 +35,7 @@ Features
 ### Box2D
 
 Features
+
 *	Continuous collision detection
 *	Convex polygons and circles
 *	Collision groups and categories
@@ -49,6 +51,7 @@ Features
 Java version of Box2D
 
 Features
+
 *	Rigid body physics
 *	Stable stacking
 *	Gravity
